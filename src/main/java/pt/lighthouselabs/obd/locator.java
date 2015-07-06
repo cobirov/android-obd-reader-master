@@ -15,7 +15,7 @@ import java.util.List;
 
 
 /**
- * Created by kandakov-di on 26.05.2015.
+ * Created  on 26.05.2015.
  */
 public class locator {
     final String LOG_TAG = "myLogs";
